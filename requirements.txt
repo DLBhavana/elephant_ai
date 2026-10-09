@@ -1,0 +1,17 @@
+gradio==6.26.0
+spaces
+ultralytics==8.4.165
+opencv-python-headless
+lap==0.5.13
+torch==2.11.0
+torchvision
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+geopandas==1.1.4
+shapely
+pyproj
+fiona
+matplotlib
+reportlab==5.0.1
